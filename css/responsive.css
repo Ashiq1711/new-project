@@ -1,0 +1,14 @@
+@media (min-width:320px) and (max-width:575px){
+    
+    .navbar-toggler{
+        background-color: white;
+    }
+    .navbar-nav{
+    
+            background-color: #5151cb;
+            border-radius: 10px;
+            text-align: center;
+            opacity: .9;
+    
+    }
+}
